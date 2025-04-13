@@ -1,4 +1,3 @@
-![Screenshot 2025-04-13 141928](https://github.com/user-attachments/assets/51cc3b85-d88e-4da6-bf85-c7f04cd2df63)# second_serve
 ZeroWaste – AI Powered Geo-Intelligent Food Donation & Rescue System
 Technologies and Tools:
 
